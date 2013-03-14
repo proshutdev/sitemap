@@ -1,7 +1,4 @@
 <?php
-set_time_limit ( 0 );
-
-
 /**
  * Project:     Proshut Site Map Creator: the PHP compiling template engine
  * File:        PSM.class.php
@@ -20,16 +17,12 @@ set_time_limit ( 0 );
  * License along with this library; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  * 
- * For questions, help, comments, discussion, etc., please join the
- * Smarty mailing list. Send a blank e-mail to
- * smarty-discussion-subscribe@googlegroups.com
- * 
  * @copyright 2011 - Proshut
  * @author Hamid Seyyedi <hamid.udc at gmail dot com> 
  * @package ProshutSiteMapper
  * @version S03.20.11.BT
  */
-
+set_time_limit ( 0 );
 class proshutSiteMapper {
 	
 	/**
